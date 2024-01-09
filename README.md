@@ -1,2 +1,0 @@
-# ShoeApp
-ShoeApp
